@@ -1,0 +1,707 @@
+                                                                  W H I T E PA P E R
+
+
+
+
+Electronic Manufacturing
+Strategies and Mass
+Communication: a Perfect Fit
+                                                 The revolution that’s taking
+
+
+
+
+>>
+                                                     place is freeing up
+
+                                                    manufacturers to do
+
+                                                     what they do best –
+
+                                                 staying aligned with their
+
+                                                   customers over the lives
+
+                                                    of multiple products.
+
+
+By Louis Columbus
+Cincom Manufacturing Business Solutions
+
+
+
+
+        ®                                   ®
+
+The World’s Most Experienced Software Company®
+Contents
+
+
+
+           Introduction ........................................................................................................... 3
+
+           Why Electronic Manufacturing Services Are Gaining Momentum ................................. 4
+
+           Exploring the Electronic Manufacturing Systems Process for Cell Phones .................... 8
+
+           Key Success Criteria in Managing Electronic Manufacturing Services ......................... 12
+
+           Electronic Manufacturing Meets Mass Customization ................................................... 13
+
+           Recommendations and Conclusions .............................................................................. 14
+
+
+
+
+2
+Introduction
+
+
+
+               There is a global revolution going on in the approaches manufacturing companies are
+               taking to define, manufacture and service their products. It’s much more fundamental
+               and powerful than just following low-cost manufacturing centers around the globe.
+               The revolution that’s taking place is freeing up manufacturers to do what they do best –
+               staying aligned with their customers over the lives of multiple products. Increasingly,
+               manufacturing companies are finding that by strategically focusing on just a few top
+               priorities, and not trying to handle the entire value chain of how they create, manufacture
+               and service products on their own, they are becoming more competitive. The era of
+               outsourcing every process that is not directly aligned with serving the customer has
+               arrived.
+
+               The processes being offloaded span the entire value chain of industries. Starting with
+               the many facets of new product development and design and progressing through
+               project and service collaboration, which is essential for a strong product introduction,
+               and into ongoing supply-chain management and integration, the value chains of
+               entire industries are being made more efficient and profitable through the use of
+               Electronic Manufacturing Services (EMS) firms. For clarification in this white paper,
+               firms offering EMS services are called EMS providers.
+
+               Today these firms span the value chains of the world’s most complex manufacturing
+               environments. Their beginnings started with helping manufacturers get more life out
+               of their products that were edging toward commodity status – where price became
+               the only differentiator.
+
+               The intent of this white paper is to show, through the convergence occurring in the
+               cell phone industry, how manufacturers face a unique set of challenges that start with
+               defining innovative new products on the one hand, and the managing of costs over
+               the life of products on the other. Given the fact that any given cell phone’s product
+               life cycle – the time period it is sold in the market – is shortening dramatically, the
+               challenge for manufacturers to keep pace is clear. Staying ahead of the market starts
+               with getting focused on what each does best; that’s why Electronic Manufacturing
+               Services firms are a viable alternative for many manufacturers.
+
+
+
+
+                                                                                                        3
+Why Electronic Manufacturing Services Are Gaining Momentum
+
+
+
+             In many industries such as cell phones, portable electronics and personal computers,
+             manufacturers are under constant pressure to drop the cost of manufacturing their
+             products. Moore’s Law, originally defined by Gordon Moore, a founder of Intel
+             Corporation, states that chip density roughly doubles during every product generation.
+             Defined over 40 years ago, the law has been proven repeatedly throughout the elec-
+             tronics industry. One of the biggest fallouts of this law for manufacturers is the fact
+             that for many, pricing has become the only way to make a product that is different
+             from those of competitors. When pricing becomes the only way to differentiate, entire
+             areas of high-tech change – fast.
+
+             Dropping the cost of producing any product – from a cell phone to a complex main-
+             frame server – is one of the prime market drivers making Electronic Manufacturing
+             Services grow so rapidly. Here are additional factors that are driving this area’s
+             growth:
+             • Rapid and unpredictable commoditization of electronics – The time frame in
+               which a company can recoup any advantage from its new Intellectual Property (IP)
+               advantage alone is shrinking. The days of relying solely on the execution of a product
+               roadmap are rapidly ending as convergence and consolidation together are redefining
+               entire market segments – as is certainly the case with cell phones. It’s not enough
+               to just have IP or even a roadmap anymore. The ability to sense and respond in a
+               synchronized strategy to meet market demands will spell the difference for many
+               companies when it comes to long-term survival.
+             • Trusted globalization of outsourcing – Global outsourcing continues to gather
+               momentum. For years, manufacturers have outsourced the production of their
+               products. The momentum toward increasing outsourcing trust for many aspects of
+               product development, manufacturing, and service strategies shows that as a strategy,
+               it’s here to stay. And, as an approach to product development, it has significant
+               potential to enable manufacturers to focus on their core strengths.
+             • Evolving business models are revolutionizing value chains – Simply put, the
+               need for manufacturers to be more adaptable to rapidly changing costs structures
+               points to a rise in component supply hubs. In addition, it is changing the relationships
+               between component suppliers, distributors, EMS providers, OEMS, and Outsource
+               Design Manufacturers (ODMs).
+             • Emergence of the Outsource Design Manufacturer (ODM) – ODMs function as
+               OEMs in that they offer turnkey design and manufacturing solutions. The ODM owns
+               the product design, development, and manufacturing, but then uses the marketing
+               and distribution channels of its OEM customer to sell products.
+
+
+
+
+4
+• Rapid construction and decommissioning of plants – When the lack of market
+  demand obsoletes products, there is a period of time required for a company to
+  ramp-up a manufacturing facility for new divisions and to decommission a production
+  plant. The time required to complete the commissioning and decommissioning of
+  factories is shrinking. The most competitive businesses have achieved a ramp-up
+  time of 12 weeks or less to bring a new contractor facility up to production.
+• Distributed liability/Vendor-Managed Inventory (VMI) – OEMs and EMS
+  providers are increasingly less willing to accept ownership of materials and
+  components until they are actually consumed or delivered. As a result, manufacturers
+  are relying more than ever on software-based approaches to managing distributed
+  liability of inventory, and handling vendor-managed inventory efficiently.
+• Managing product End of Life (EOL) including channel redirection and
+  product obsolescence – Intellectual Property (IP) itself doesn’t guarantee last
+  competitive advantage because shorter product life cycles are driving product
+  obsolescence. Companies are developing skills in redefining channel strategies
+  to maximize sales of older products.
+• The need for adhering to market-proven standards – There are really two
+  classes of standards that influence high-tech manufacturers. The first is market-driven
+  while the second is based on standard organizations that define standards and
+  approaches to entire industries working together. Electronic manufacturing service
+  providers have actually helped to define the market-based standards for product
+  development and ongoing production. In addition, several are involved in the
+  standards-making organizations that look to streamline supply-chain coordination
+  through their industries.
+• Web Services are ready for prime time – The rapid growth of XML-based
+  communication, including the growth of Web Services for managing business
+  processes globally, has arrived.
+• Manufacturing is now virtual – This is due to the fact that Web Services along
+  with XML-based communication makes it possible to attain higher levels of global
+  collaboration than ever before.
+• EMS providers directly influence Bill of Material (BOM) and labor costs –
+  Manufacturers are constantly looking at evaluating EMS as a strategy for reducing
+  bottom-line costs. Up to 60% of a cell phone’s BOM costs are controllable through
+  EMS strategies. For example, the market drivers defined here are changing the
+  landscape for the ability of electronic manufacturing services to execute on behalf
+  of manufacturers globally. The technology factors of automating Vendor-Managed
+  Inventory and the successful use of XML and Web Services to virtually collaborate
+  with manufacturers will continue to re-order the landscape of electronic manufacturing
+  services.
+
+
+
+
+                                                                                       5
+    Why the Adoption of Electronic Manufacturing Services Is Growing
+
+    Lowering the cost to produce products continues to be the main reason for manufac-
+    turers to look to electronic manufacturing services. In an AMR Research survey of 700
+    manufacturers who are working with EMS providers globally, 65% claim that lower
+    labor and production costs are the primary reason for working with outsourcers,
+    followed by 18% mentioning higher quality and 8% citing cheaper materials. What’s
+    interesting about AMR’s study is the fact that EMS providers see their primary value
+    being high quality (43%) followed by lower labor costs (25%) with higher innovation
+    (17%) being the third reason. Figure 1 shows the results of this survey.
+
+
+                                                                    Brand owner primary reason
+                70%        65%                                      Contract manufacturer perception
+                60%
+                50%
+                                             43%
+                40%
+                30%
+                                 25%
+                20%                    18%                                                 17%
+                                                                    12%
+                10%                                8%
+                                                        3%     5%         3%          3%
+                  0%
+                            Lower       High       Cheaper     Closer     Govt. Tax    Higher
+                            Labor      Quality     Materials     to       and Tariff Innovation
+                            Costs                              Market     Benefits
+    Source: AMR Research, 2005
+
+
+
+
+               Figure 1: Comparing Electronic Manufacturing Services Growth Factors
+
+    EMS providers see their major contribution as delivering high-quality manufacturing,
+    as this is where the majority of their investment goes. Every EMS provider that has
+    global manufacturing facilities meets ISO-9001 certification – a quality standard
+    specifically developed for manufacturing. Therefore, it is no surprise that they see
+    their first major contribution as being higher quality manufacturing followed by lower
+    labor costs. The gap between how manufacturers view EMS providers versus how
+    they view themselves regarding higher innovation shows the evolving role of the
+    latter on offering design services. Analyst firms are calling this area Original Design
+    Manufacturing (ODM). Simply put, manufacturers are relying on EMS providers to
+    handle the design and development of initial product concepts. Market estimates
+    show that manufacturers are starting to take advantage of this service from EMS
+    providers, yet it is far less dominant with costs being the primary driver.
+
+
+
+
+6
+Before going through the development process that EMS providers and manufacturers
+rely on for driving labor costs out of products, it’s useful to see what products manu-
+facturers target for this strategy. The majority of manufacturers (62) are relying on
+EMS providers for manufacturing components followed by manufacturing products to-
+stock, or in other words, finished goods ready for sale (56%). Manufacturing configure-
+to-order assemblies, which have 30% or less customization to them, are 51% of all
+products built. High-tech products have by nature become more configure-to-order,
+or customizable in distribution channels globally. This translates into even greater
+challenges for EMS providers and manufacturers to synchronize orders and manage
+supply chains closely to make sure there are enough components to complete orders.
+Figure 2 shows a ranking of services and frequency of use.
+
+
+                      Manufacture CTO assemblies                     51%                              39%
+                     Manufacture FG ready for sale                   56%                            33%
+                             Manufacture components                        62%                            22%
+                                Source raw materials                 48%                             36%
+                        Ship finished products to DC                  49%                           34%
+                                           Copacking            38%                           38%
+          Ship components direct to assembly line              33%                       39%
+      Ship components to component warehouse                   33%                      35%
+   Manufacture FG configured to customer order                 33%                      33%
+    Ship components to consolidation warehouse                28%                      38%
+                             Ship FG to customer's DC    19%                     43%
+                     Ship FG direct to end customer     14%               30%
+
+                                                        0%          20%          40%           60%              80%   100%
+                                                         Frequently
+                                                         Sometimes
+Source: AMR Research, 2005
+
+
+
+
+                  Figure 2: Services Provided by EMS Providers to Manufacturers
+
+
+
+
+                                                                                                                             7
+Exploring the Electronic Manufacturing Systems Process
+for Cell Phones
+
+
+             Given the fact that EMS providers are having a significant impact on both labor and
+             Bill of Material (BOM) costs, their ability to span more processes than just manufactur-
+             ing is apparent in the cell phone industry for example. The process of creating a cell
+             phone, where EMS providers have reduced BOM costs by 60% or more, is illustrated
+             here. Outsourcing Design Manufacturing (ODM) is included in the following process
+             steps to show its relative contribution to the electronic manufacturing services process:
+
+             Phase I: Product Design and Quality
+
+             Included within this phase are the following steps (it’s up to the manufacturer as to
+             which of these they choose to use). Nearly every EMS provider is starting to offer
+             either part or all of these services. This entire product-development phase is part of
+             the Outsourcing Design Manufacturing (ODM) initiative that is taking place among
+             EMS providers today.
+
+             • Design Services – In the example of a cell phone manufacturer that is seeking to
+               keep pace with the product life cycles of its specific industries, the decision to use
+               design services makes sense. It frees up the manufacturer to focus on distribution
+               channels and the definition of convergence products that are so critical for the
+               growth of their market. Here are additional steps that the cell phone manufacturer
+               will work through with an EMS provider:
+               - Prototyping and ramp-up
+               - Product structure management
+               - Product development
+               - Specification management
+               - Document management
+               - Change and configuration management
+
+
+               Cell-phone manufacturers seek differentiation in this stage of a development partner-
+               ship with EMS providers through the development of innovative, small, form-factor
+               displays, which currently represent 21% of the Bill of Materials (BOM) costs. Such a
+               high-cost component with strong differentiation potential is an example of where
+               cell phone manufacturers are relying on EMS providers to deliver materials cost
+               reductions.
+
+
+             • Design and Project Collaboration – In the evolving role of EMS providers as
+               deliverers of Outsourcing Design Manufacturing (ODM) services, this is one of the
+               areas that requires the greatest level of collaboration with cell phone manufacturers.
+               The strategies EMS providers focus on in this area include the following:
+               - Development of collaboration best practices
+               - Project planning and scoping
+
+
+8
+  - Ongoing project management
+  - Portfolio and product management
+  - Project execution
+  In the case of cell-phone manufacturers, this step in any development process
+  requires a major commitment of resources and focus, since engineering in the EMS
+  provider and the manufacturer need to work together daily in the definition and
+  development of the next generation of product families.
+
+Phase II: Manufacturing
+
+The scope of services has greatly widened within the last 15 years specifically in this
+area of EMS providers’ offerings. This entire industry has rapidly progressed from
+offering lower labor costs by either building or acquiring production centers in low-
+wage areas of the world to span an entire range of services in this industry. The
+strategic segments of this phase of EMS providers’ offerings include the following:
+
+• Order management
+  - Distributed order management in conjunction with manufacturers
+  - Outbound order processing
+  - Order drop-shipments
+
+
+• Supply chain management
+  Demand and Supply Planning – Manufacturers are increasingly relying on EMS
+  providers for coordination of their supply chains. As a result, the growth of services
+  offered has made this one of the fastest growing areas of cell-phone manufacturers’
+  use of electronic manufacturing services. The services that comprise this area are
+  defined later in this document.
+
+
+• Manufacturing and assembly
+  This area is the core of EMS providers’ value for manufacturers, and is explained
+  in detail later within this document. Manufacturers see improved forecast accuracy,
+  reductions in material and component obsolescence, and lowered inventory write-
+  downs due to using EMS providers.
+
+
+• Logistics and distribution
+  For cell-phone manufacturers that rely on EMS providers for each of these specific
+  strategies, there is the need for coordinating demand and supply-chain planning,
+  manufacturing strategies for attaining Six Sigma on production processes, and a
+  strategic focus on quality management.
+
+
+
+
+                                                                                        9
+     The following three areas are considered to be the foundations that underscore the
+     manufacturing strategies that EMS providers are offering today. Each of these areas
+     is defined further by their specific offerings.
+
+
+     1. Demand and supply-chain planning
+       - Demand planning and forecasting
+       - Safety stock planning
+       - Supply network optimization
+       - Multilevel demand, supply matching, and optimization
+       - Supply network planning logic
+       - Supply chain monitoring and control
+       - Production planning
+
+
+       Given the fact that cell-phone manufacturers face continual downward pricing
+       pressure on their products, the ability to manage supply chains to the highest levels
+       of efficiency possible is critical. That’s why EMS providers are focused on demand
+       and supply-chain planning as a critical part of their offerings for cell-phone manufac-
+       turers. The ability of EMS providers to deliver components at a lower cost than
+       manufacturers can achieve on their own further underscores the fact that EMS is not
+       just for manufacturing anymore. It is increasingly about co-managing a manufacturer’s
+       supply chain and making a correspondingly higher contribution to reducing BOM
+       costs. AMR Research, for example, cites a 70% figure of co-managing supply chains
+       between manufacturers and EMS providers.
+       As pointed out in previous sections of this document, at the core of the EMS providers’
+       value to manufacturers is the continual focus on quality. ISO 9001 is not optional
+       anymore for any EMS provider, and it needs to be at the top of the evaluation list for
+       cell-phone manufacturers that are looking for a potential EMS provider. At the heart
+       of the value of EMS providers are high quality and the predictable production of
+       components, subassemblies, assemblies, and finished goods. The following points
+       highlight the key aspects of EMS providers’ focus on manufacturing and quality:
+
+
+     2. Manufacturing and Six Sigma strategies
+       - Production planning
+       - Manufacturing execution strategies
+       Cell phone manufacturers, for example, will rely heavily on production planning
+       services to drive down both labor and production costs for cell phones that are
+       mature in their product life cycles. Manufacturing execution strategies are relied
+       on for the introduction of entirely new products and in the case of cell phones,
+       the development, production, and service of convergence cell phones - for example,
+       those that include digital cameras.
+
+
+
+10
+  Apart from cost reduction strategies, EMS providers see quality as the most critical
+  value-add they bring to manufacturers. In fact, according to AMR Research surveys,
+  EMS providers see themselves as more in the business of delivering quality produc-
+  tion over cost reduction as their primary value to manufacturers. The investment
+  required to accomplish ISO 9001 certification can be well into the millions of dollars,
+  hence EMS providers’ focus on this as their core strength and value to manufacturers.
+  In defining their quality strategies, EMS providers focus on the following areas:
+
+
+3. Quality management
+  - Quality engineering
+  - Continuous quality improvement initiatives
+  - Audit management
+  - Quality assurance and control
+
+Phase III: Service Management
+
+Post-manufacturing services are the key to profitability for many manufacturers that
+face increasing pressure on their pricing, and as a result, on their product life cycles.
+AMR Research estimates that just a 3% capture rate of the installed base for any given
+manufacturer increases return on sales by 10%. EMS providers are attempting to con-
+tribute to this growth in profitability by offering a series of services. Some are calling
+this Service Life cycle Management (SLM), others are calling it Post-Manufacturing
+Services, and still others call it Aftermarket Services. Components of EMS providers’
+strategy are defined here:
+• Service parts and operations
+• Customer-service management
+• Inventory management
+• Logistics services
+
+In the case of a cell-phone manufacturer, the aftermarket presents even greater revenue
+opportunities than the initial sales of cell phones themselves. What several manufac-
+turers (including Cingular, Verizon Wireless, Virgin Mobile, and others) are focusing
+on is the merging of services offerings; for example, extended warranty plans for
+phones with mega-pixel cameras, and in many cases, the ability to sell web-based
+services. The novelty of offering television viewing on cell phones opens up an
+entirely new range of services and accentuates the need for Service Life cycle
+Management strategies from EMS providers to align with the long-term upsell potential
+of the latest entries into the convergence market arena. The melding of mature tech-
+nologies in the cell phone form-factor promises to revolutionize the growth of this
+entire area of EMS providers’ business models.
+
+
+
+
+                                                                                      11
+Key Success Criteria in Managing Electronic
+Manufacturing Services
+
+
+              In determining if electronic manufacturing services are a suitable fit, manufacturers
+              need to keep in mind the priorities of their counterparts who are already relying on
+              this strategy, and their impact on the future direction of this approach to streamlining
+              product design, development, manufacturing, and service. AMR Research’s extensive
+              work defines the top concerns of existing manufacturers who are using electronic
+              manufacturing services and finding it a viable strategy. Here are the results of research
+              that was conducted by AMR Research in March of 2005. The research uncovered the
+              top concerns of 700 global manufacturers who rely on EMS providers. Multiple
+              responses were encouraged to capture a complete set of priorities.
+
+
+                                     Top Priorities of Manufacturers Using EMS Providers Today
+
+
+                                Planning and managing inventory throughout the supply chain                                      56%
+                                Managing product quality with the EMS provider                                                   48%
+                                Protecting intellectual property                                                                 35%
+                                Visibility to and Response to customer demand and orders                                         29%
+                                Sharing inventory and production status                                                          25%
+                                Contract coordination                                                                            25%
+                                Managing increased variability and uncertainty                                                   21%
+                                Information technology capabilities of EMS providers                                             19%
+                                Enforcing and ensuring regulatory compliance                                                     15%
+                                Coordinating logistics and cross-border trade                                                    12%
+                                Controlling international logistics costs                                                        10%
+
+              Source: AMR Research Report, Contract Manufacturing at a Crossroads: Brand Owner Need for Visibility, April 2005
+
+
+
+
+12
+Electronic Manufacturing Meets Mass Customization
+
+
+
+             EMS providers are finding that configure-to-order product strategies are working for
+             cell phones, blade servers, and PCs. The future of electronic manufacturing is best
+             viewed from the context of mass-customization strategies, as shown in the following
+             table. Clearly, the future of EMS is to embrace all phases of mass customization.
+             Cincom’s Socrates™ application is a proven solution for capturing and managing
+             orders for customized products.
+
+                                        Comparing Mass Customization Strategies
+
+                                                 Definition                                 Industry Examples
+             Assemble-to-Order This is a product configuration strategy that      An example of an assemble-to-order strategy
+                               is focused on taking manufactured compo-           is the definition of components in a laptop
+                               nents or subassemblies and creating a final-       computer where the product is assembled
+                               ized assembly from them. Assemble-to-order         from a series of stock components. This
+                               product configuration strategies are often         strategy is found most often in high-tech,
+                               rules-based and define the interrelationships      channel assembly and electronics. Furniture,
+                               and compatibilities between components,            retail including DYI (Do It Yourself) stores,
+                               subassemblies and parts of a product.              packaging, printing, healthcare and insurance
+                                                                                  are where this configuration strategy is used.
+
+             Build-to-Order      Manufacturers who have a build-to-order          Examples of build-to-order strategies include
+                                 strategy are customizing smaller portions        auto manufacturers that offer several options
+                                 of the customized product for the unique         on engines and interiors. High-tech, automo-
+                                 requirements of customers, with the majority     tive, medical, and financial services are
+                                 of the products’ content being based on          several of the verticals where this is used.
+                                 made-to-stock or standardized product.
+
+             Configure-to-Order Manufacturers of complex products are             Industries relying on configure-to-order
+                                using this product configuration strategy for     strategies are distinguished by their require-
+                                customizing their products to an exacting set     ments of intelligence around product
+                                of specifications from their manufacturing        constraints. Verticals relying on configure-to-
+                                customers. Configure-to-order products are        order include telecommunications, heavy
+                                comprised of both standardized and cus-           industrial equipment, turbine and pump
+                                tomized components, with the majority being       production, elevators and escalators, and
+                                customized to the needs of the customer.          complex cabling systems.
+
+             Engineer-to-Order   Where the majority, if not all, product          Products that are manufactured using an
+                                 components are specifically created to a         ETO process include aircraft, aerospace
+                                 customer’s unique requirements, it’s referred    and defense products, power generators,
+                                 to as an engineer-to-order (ETO) strategy.       HVAC equipment, specialty-use engines,
+                                 Products manufactured as a result of an          and manufacturing equipment that is
+                                 ETO strategy are defined with highly specific    purposely built to support a specific
+                                 engineering documents, and often require         manufacturing process.
+                                 that the sales configurators delivering quotes
+                                 from these products have the ability to
+                                 generate multi-level CAD drawings and
+                                 specifications.
+
+
+
+
+                                                                                                                           13
+Recommendations and Conclusions
+
+
+
+            There is a global revolution going on within manufacturing today, driven by accelerated
+            product life cycles, increasing price competition, industry consolidation, and in the
+            cell-phone industry, convergence of technologies that when combined, deliver strongly
+            differentiated products. At the center of this perfect storm of manufacturing, is the
+            need for companies that own brands to:
+
+            • Maximize sales in existing channels.
+            • Look for new and alternative channels that promise higher growth and lower sales
+              costs.
+            • Grow same-customer sales and maximize their value over multiple products’ lifetimes.
+
+            Add to this the fact that many manufacturers need to invest more to achieve quality
+            certifications to produce convergence products that they generate in gross contribution
+            margin, and the implications become clear. Electronic manufacturing services are here
+            to stay and will grow rapidly as manufacturers that hold brands focus first on building
+            existing customer relationships and look to acquire new customers with entirely new
+            classes of products.
+
+            Recommendations for manufacturers include:
+            • Work to create demand visibility throughout manufacturing now. For EMS-
+              based strategies to work, this level of visibility is critical and will greatly increase the
+              chances of success in adopting electronic manufacturing approaches to production.
+            • Standardize contracts with a set of options for design, inventory, manufacturing
+              visibility, and planning responsibility. Structure contracts consistently to make
+              them easier to manage and change when needed, and include incentive clauses for
+              EMS providers that provide exceptionally responsive service and higher levels of
+              quality than those of which they originally agreed to.
+            • Have Quality Assurance and Quality Engineering from your company work
+              early in the process with EMS partners. Too often manufacturers take too long
+              and often shortchange quality efforts, thinking the strategy of using EMS providers is
+              all about cost reduction. Often manufacturers that turn to EMS providers are nearly
+              out of time in keeping up with product generations anyway, and a quality slip can
+              quickly push a product generation into another year – an irrecoverable blow to any
+              program. So focusing first on your Quality Assurance and Quality Engineering teams
+              is critical to the long-term success of any electronic manufacturing strategy.
+
+
+
+
+14
+• Focus on technology alternatives for synchronizing market demand including
+  customized product orders with your EMS partners. Web Services is a market
+  dynamic discussed at length within the market factors that drive adoption of global
+  electronic manufacturing strategies. If your company is looking into EMS as a viable
+  production alternative, start by evaluating how automating channel management,
+  order management, aftermarket or services management, and definitely engineering
+  change orders (ECOs) will impact this strategy. Being able to link EMS partners on
+  what’s changing in a product – typically communicated in ECOs – is critical for the
+  long-term success of a product.
+• Look for standardization options for communicating orders and sharing
+  internal content with EMS partners. For companies in high-tech, RosettaNet is
+  the standard for handling the transferring of orders from one partner to another,
+  and there are many standards in place. Get up to speed on them before embarking
+  on an engineering manufacturing strategy.
+
+
+
+
+                                                                                  15
+ UNITED STATES                                      EUROPE                                      GREATER ASIA PACIFIC                             BRAZIL
+
+ Atlanta, GA                                        Vienna, Austria                             Melbourne, Australia                             Sao Paulo, Brazil
+ 770-441-0550                                       +43 1 24027 524                             +61 3 8601 1116                                  +(55 11) 3097 9555
+
+ Chicago, IL                                        Brussels, Belgium                           Sydney, Australia
+ 708-301-6155                                       +32 2 679 68 11                             +61 2 8875 1400                                  LATIN AMERICAN
+                                                                                                                                                 OPERATIONS
+ Cincinnati, OH                                     Lyon, France                                Shanghai, China
+ 513-612-2300                                       +33 4 78 63 78 63                           +86 21 6375 8200                                 Cincinnati, OH
+                                                                                                                                                 513-612-2672
+ Columbus, OH                                       Paris, France                               New Delhi, India
+ 614-863-6636                                       +33 1 53 61 70 00                           +91 11 2373 7590
+
+ Dallas, TX
+                                                                                                                                                 EUROPE, MIDDLE EAST
+                                                    Schwalbach, Germany                         Tokyo, Japan                                     AND AFRICA
+ 817-571-9117                                       +49 6196 90 03 0                            +81 3 3438 2791
+                                                                                                                                                 Monaco
+ Irvine, CA                                         Vianen, The Netherlands                                                                      +377 93 10 01 20
+ 949-752-7220                                       +31 347 358 458
+
+ Kansas City, KS                                    Torino, Italy
+ 913-451-6969                                       +39 011 5154 711
+                                                                                                                                                 For countries other than
+ Minneapolis, MN                                    Monaco                                                                                       those listed on this page,
+ 952-470-1920                                       +377 93 10 01 20                                                                             contact Cincom World
+                                                                                                                                                 Headquarters.
+ New York, NY                                       Barcelona, Spain
+ 732-530-1313                                       +34 93 487 49 57
+
+                                                    Madrid, Spain
+ Phoenix, AZ
+                                                    +34 91 524 9820
+ 480-775-5168
+                                                    Stockholm, Sweden
+ Pittsburgh, PA
+                                                    +46 8 594 605 00
+ 724-242-0158
+                                                    Geneva, Switzerland
+ Santa Clara, CA
+                                                    +41 22 747 75 18
+ 408-216-4600
+                                                    Lymington, UK
+ St. Louis, MO                                      +44 1590 676138
+ 314-995-3800
+                                                    Maidenhead, UK
+ Syracuse, NY                                       +44 1628 542300
+ 315-655-2680
+                                                    Manchester, UK
+                                                    +44 1625 535585
+
+ CANADA
+
+ Mississauga, Ontario
+ 905-279-4220
+
+ Montreal, Quebec
+ 514-866-8661
+
+
+
+
+                                                                                                          CINCOM, , Socrates, and The World’s Most Experienced Software Company are
+                                                                                                                     ®
+
+
+
+
+                                                                                                          registered trademarks of Cincom Systems, Inc.
+
+                                                                                                          All other trademarks belong to their respective companies.
+
+                                                                                                          © 2005 Cincom Systems, Inc.
+                                                                                                          FORM CM050805-2 8/05
+                                                                                                          Printed in U.S.A.
+                                                                                                          All Rights Reserved
+
+
+                                                 World Headquarters • Cincinnati, OH USA • US 1-800-2CINCOM • International 1-513-612-2769 • E-mail info@cincom.com
+        ®                                   ®    http://www.cincom.com • For local and international offices, go to: www.cincom.com/international
+The World’s Most Experienced Software Company®
+
