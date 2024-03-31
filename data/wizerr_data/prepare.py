@@ -28,6 +28,7 @@ data = "" # currently we will only be using huggingface datasets, but later we c
 # load in huggingface datasets
 electronics_dataset = load_dataset("ksabeh/electronics-dataset")
 fabner_dataset = load_dataset("DFKI-SLT/fabner")
+amazon_reviews = load_dataset("rkf2778/amazon_reviews_mobile_electronics")
 
 for i in range(len(electronics_dataset['train'])):
     data += electronics_dataset['train'][i]['text']
@@ -36,6 +37,12 @@ for i in range(len(fabner_dataset['train'])):
     tokens = fabner_dataset['train'][i]['tokens']
 
     data += ' '.join(tokens)
+
+for i in range(len(amazon_reviews['train'])):
+    if amazon_reviews['train'][i]['review_body'] is None:
+        continue
+
+    data += amazon_reviews['train'][i]['review_body']
 
 n = len(data)
 print(n)
